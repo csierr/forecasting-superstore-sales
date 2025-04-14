@@ -28,6 +28,5 @@ The main objective is to predict sales based on the historical trends observed i
 
 **This project is currently in development.**  
 Feel free to follow along as it evolves — feedback and ideas are always welcome!
-
 Stay tuned for updates!
 
