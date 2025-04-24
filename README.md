@@ -1,8 +1,8 @@
 # 📈 Forecasting Superstore Sales
 
-This project focuses on performing **Exploratory Data Analysis (EDA)** and **Time Series Forecasting** using a retail dataset from Kaggle, which includes four years of sales data from a global superstore.
+This project explores **Exploratory Data Analysis (EDA)** and **Time Series Forecastin**g on a retail dataset from Kaggle, featuring four years of global superstore sales data.
 
-The main objective is to predict sales based on the historical trends observed in the data.
+The main objective is to analyze historical sales trends and build forecasting models to predict future sales, comparing different approaches in terms of accuracy and interpretability.
 
 🔗 [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data)
 
@@ -12,21 +12,31 @@ The main objective is to predict sales based on the historical trends observed i
   
 - Prepare the dataset for time series modeling
   
-- Experiment with different forecasting models
+- Apply and compare several time series forecasting models
 
-- Evaluate the models' performance and visualize the predictions
+- valuate model performance using metrics such as MAPE, MAE, and R²
+
+- Visualize model predictions and reflect on model strengths, limitations, and potential improvements
 
 # 🛠️ Tech Stack
 
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
 - scikit-learn, statsmodels
-- Prophet, ARIMA, and other time series models
+- Theta, ARIMA and Prophet forecasting models
 - Jupyter Notebooks
 
 # 🚧 Status
 
-**This project is currently in development.**  
-Feel free to follow along as it evolves — feedback and ideas are always welcome!
-Stay tuned for updates!
+This project represents a complete first attempt at tackling time series forecasting using real-world retail data. It includes end-to-end steps from data exploration to model evaluation and comparison.
+
+While the core goals have been met, there’s room for future improvements, such as:
+
+* Fine-tuning model parameters
+
+* Trying other models or ensemble forecasting techniques
+
+* Automating model selection and evaluation
+
+As a first structured forecasting project, it's a solid foundation — and a great stepping stone for more advanced forecasting work to come.
 
