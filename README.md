@@ -28,7 +28,7 @@ The main objective is to analyze historical sales trends and build forecasting m
 
 # 🚧 Status
 
-This project represents a complete first attempt at tackling time series forecasting using real-world retail data. It includes end-to-end steps from data exploration to model evaluation and comparison.
+This project represents a complete attempt at tackling time series forecasting using real-world retail data. It includes steps from data exploration to model evaluation and comparison.
 
 While the core goals have been met, there’s room for future improvements, such as:
 
@@ -37,6 +37,4 @@ While the core goals have been met, there’s room for future improvements, such
 * Trying other models or ensemble forecasting techniques
 
 * Automating model selection and evaluation
-
-As a first structured forecasting project, it's a solid foundation — and a great stepping stone for more advanced forecasting work to come.
 
